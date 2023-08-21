@@ -5,7 +5,7 @@
 - Finally, we design and implement a Monte Carlo EM algorithm to compute the maximum likelihood estimate for parameters in $\theta$; here as well, diagnostic (trace and autocorrelation) plots show that the proposed Monte Carlo EM algorithm runs to convergence.
 
 # Code
-The code for all the computations and plots in this paper can be found at `gibbs_sampler.R` and `monte_carlo_EM.R`.
+The code for all the computations and plots in this project can be found at `gibbs_sampler.R` and `monte_carlo_EM.R`.
 
 # Data
 The observed data can be accessed under the data folder [here](data/obs.csv).

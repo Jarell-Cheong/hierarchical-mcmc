@@ -12,4 +12,4 @@
 
 # Installation
 - Run `git clone https://github.com/Jarell-Cheong/hierarchical-mcmc.git`.
-- Use `install.package()` to install R packages in the preamble of each code file.
+- Use `install.package()` to install packages in the preamble of each code file.
